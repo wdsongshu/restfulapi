@@ -1,15 +1,8 @@
 [
   {
     "id": 2,
-    "barcode": "ITEM000003",
-    "name": "方便面",
-    "unit": "袋",
-    "price": 3.5
-  },
-  {
-    "id": 4,
-    "barcode": "ITEM000009",
-    "name": "方便面",
+    "barcode": "ffi3",
+    "name": "王佳",
     "unit": "袋",
     "price": 3
   },
@@ -26,5 +19,96 @@
     "name": "方便面",
     "unit": "袋",
     "price": 3.5
+  },
+  {
+    "id": 7,
+    "barcode": "IM043",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 8,
+    "barcode": "I3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 10,
+    "barcode": "fgdfgd3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 11,
+    "barcode": "fgdffgd3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 11,
+    "barcode": "ffi3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 12,
+    "barcode": "ffi3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 13,
+    "barcode": "ffi3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 14,
+    "barcode": "ffi3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 15,
+    "barcode": "ffi3",
+    "name": "王佳jia",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 16,
+    "barcode": "ffi3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 17,
+    "barcode": "ffi3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 19,
+    "barcode": "ffi3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
+  },
+  {
+    "id": 20,
+    "barcode": "ffi3",
+    "name": "王佳",
+    "unit": "袋",
+    "price": 3
   }
 ]
